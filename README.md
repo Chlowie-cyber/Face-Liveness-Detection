@@ -16,3 +16,10 @@ The project is implemented in **Python** using **Jupyter Notebook**, with deep l
 ---
 
 ## Project Structure
+FaceLiveness/
+├── face_liveness.ipynb       # Main Jupyter Notebook with all code and explanations
+├── requirements.txt          # Lists all Python packages required to run the notebook
+├── README.md                 # This file, explains the project
+└── data/                     # Folder for your images
+    ├── real/                 # Subfolder containing real face images
+    └── fake/                 # Subfolder containing spoofed/fake face images
